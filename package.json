@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.david-samia.interactivebuttons",
+  "version": "1.0.0",
+  "displayName": "Interactive Buttons",
+  "description": "This contains more kinds of UI inputs such as buttons that need to be held or dragged",
+  "unity": "2022.3",
+  "author": {
+    "name": "David Samia",
+    "email": "dsamia@me.com",
+    "url": "https://david-samia.com"
+  }
+}
